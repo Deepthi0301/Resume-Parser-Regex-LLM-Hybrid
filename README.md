@@ -125,7 +125,7 @@ Missing fields may be represented as `null`, empty strings, or empty lists, depe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Resume-Parser-Regex-LLM-Hybrid.git
+git clone https://github.com/Deepthi0301/Resume-Parser-Regex-LLM-Hybrid.git
 cd Resume-Parser-Regex-LLM-Hybrid
 ```
 
