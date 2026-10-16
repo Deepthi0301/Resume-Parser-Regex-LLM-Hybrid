@@ -1,0 +1,66 @@
+RESUME 
+AARAV SHARMA 
+Email: aarav.sharma@example.com 
+Phone: +91 90000 12345 
+Location: Hyderabad, Telangana, India 
+PROFESSIONAL SUMMARY 
+Motivated Computer Science graduate with experience in Python development, data 
+analytics, web development, and cloud technologies. Interested in building practical software 
+solutions and AI-powered applications. 
+TECHNICAL SKILLS 
+ Programming Languages: Python, Java, JavaScript, SQL 
+ Web Technologies: HTML, CSS, React, Node.js 
+ Data Analytics: Excel, Power BI, Data Analytics 
+ Cloud Technologies: AWS, Azure 
+ Tools: Git, Linux, REST API 
+ Platforms: ServiceNow 
+ Concepts: Machine Learning, Database Management, API Integration 
+EDUCATIONAL QUALIFICATIONS 
+Bachelor of Technology in Computer Science and Engineering 
+Deccan Institute of Technology, Hyderabad 
+2021 – 2025 
+CGPA: 8.7/10 
+Intermediate – Mathematics, Physics and Chemistry 
+Sunrise Junior College, Hyderabad 
+2019 – 2021 
+Percentage: 91% 
+Secondary School Certificate 
+Green Valley High School, Hyderabad 
+2018 – 2019 
+GPA: 9.2/10 
+WORK EXPERIENCE 
+Python Developer Intern 
+TechNova Solutions (fictional company), Hyderabad 
+January 2025 – June 2025 
+ Developed Python scripts to automate data processing tasks. 
+ Used SQL to retrieve and organize information from databases. 
+ Assisted with REST API integration and testing. 
+ Collaborated with developers to debug application issues. 
+Data Analytics Intern 
+InsightBridge Analytics (fictional company), Remote 
+July 2024 – December 2024 
+ Cleaned and analyzed sample datasets using Python and Excel. 
+ Created Power BI dashboards to visualize business metrics. 
+ Prepared reports to communicate findings and trends. 
+PROJECTS 
+1. Smart Expense Tracker 
+ Developed a web application using Python, React, and SQL. 
+ Created expense reports and category-wise spending summaries. 
+ Added REST API endpoints for storing and retrieving transactions. 
+2. Customer Churn Prediction 
+ Built a machine learning model using Python. 
+ Analyzed customer data to identify churn patterns. 
+ Evaluated model performance using standard classification metrics. 
+3. Cloud-Based File Storage System 
+ Developed a file upload and download application using AWS. 
+ Implemented user authentication and basic file management. 
+ Used Git for source code version control. 
+CERTIFICATIONS 
+ Python Programming Certification – CodeCraft Academy, 2024 
+ AWS Cloud Practitioner Essentials – CloudLearn, 2024 
+ Power BI Data Analytics Certificate – DataSkills Institute, 2025 
+ Java Programming Fundamentals – TechPath Academy, 2023 
+ADDITIONAL INFORMATION 
+ Languages: English, Hindi 
+ Interests: Data Analytics, Artificial Intelligence, Software Development 
+ Availability: Immediate 

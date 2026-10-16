@@ -1,0 +1,23 @@
+{
+    "email_address": "aarav.sharma@example.com",
+    "phone_number": "+91 90000 12345",
+    "full_name": "AARAV SHARMA",
+    "technical_skills": [
+        "Programming Languages: Python, Java, JavaScript, SQL",
+        "Web Technologies: HTML, CSS, React, Node.js",
+        "Data Analytics: Excel, Power BI, Data Analytics",
+        "Cloud Technologies: AWS, Azure",
+        "Tools: Git, Linux, REST API",
+        "Platforms: ServiceNow",
+        "Concepts: Machine Learning, Database Management, API Integration"
+    ],
+    "educational_qualifications": "Bachelor of Technology in Computer Science and Engineering\nDeccan Institute of Technology, Hyderabad\n2021 – 2025\nCGPA: 8.7/10\nIntermediate – Mathematics, Physics and Chemistry\nSunrise Junior College, Hyderabad\n2019 – 2021\nPercentage: 91%\nSecondary School Certificate\nGreen Valley High School, Hyderabad\n2018 – 2019\nGPA: 9.2/10",
+    "work_experience": "Python Developer Intern\nTechNova Solutions (fictional company), Hyderabad\nJanuary 2025 – June 2025\n\n\nDeveloped Python scripts to automate data processing tasks.\n\nUsed SQL to retrieve and organize information from databases.\n\nAssisted with REST API integration and testing.\n\nCollaborated with developers to debug application issues.\nData Analytics Intern\nInsightBridge Analytics (fictional company), Remote\nJuly 2024 – December 2024\n\nCleaned and analyzed sample datasets using Python and Excel.\n\nCreated Power BI dashboards to visualize business metrics.\n\nPrepared reports to communicate findings and trends.",
+    "projects": "1. Smart Expense Tracker\n\nDeveloped a web application using Python, React, and SQL.\n\nCreated expense reports and category-wise spending summaries.\n\nAdded REST API endpoints for storing and retrieving transactions.\n2. Customer Churn Prediction\n\nBuilt a machine learning model using Python.\n\nAnalyzed customer data to identify churn patterns.\n\nEvaluated model performance using standard classification metrics.\n3. Cloud-Based File Storage System\n\nDeveloped a file upload and download application using AWS.\n\nImplemented user authentication and basic file management.\n\nUsed Git for source code version control.",
+    "certifications": [
+        "Python Programming Certification – CodeCraft Academy",
+        "AWS Cloud Practitioner Essentials – CloudLearn",
+        "Power BI Data Analytics Certificate – DataSkills Institute",
+        "Java Programming Fundamentals – TechPath Academy"
+    ]
+}

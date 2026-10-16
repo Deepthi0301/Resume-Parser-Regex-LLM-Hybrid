@@ -1,0 +1,13 @@
+{
+    "email_address": "riya.mehta@example.com",
+    "phone_number": null,
+    "full_name": "Riya Mehta",
+    "technical_skills": [
+        "Python",
+        "SQL"
+    ],
+    "educational_qualifications": "Bachelor of Science in Computer Science, 2024",
+    "work_experience": null,
+    "projects": null,
+    "certifications": null
+}
