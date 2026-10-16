@@ -129,8 +129,6 @@ git clone https://github.com/Deepthi0301/Resume-Parser-Regex-LLM-Hybrid.git
 cd Resume-Parser-Regex-LLM-Hybrid
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ### 2. Install Python Dependencies
 
 ```bash
